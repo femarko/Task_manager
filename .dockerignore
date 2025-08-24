@@ -1,0 +1,13 @@
+venv_task_manager/
+.env
+.env.dev
+.env.test
+.env.prod
+*__pycache__/
+.idea/
+.coverage
+README.md
+.gitignore
+docker-compose.yml
+Dockerfile
+docker-compose_local_dev.yml

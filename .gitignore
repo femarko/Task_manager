@@ -1,0 +1,8 @@
+venv_task_manager/
+.env
+.env.dev
+.env.test
+.env.prod
+*__pycache__/
+.idea/
+.coverage
